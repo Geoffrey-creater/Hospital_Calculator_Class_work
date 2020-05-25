@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:innerRadiusRatio="2.5"
+    android:shape="ring"
+    android:thickness="15sp"
+    android:useLevel="true">
+
+    <solid
+        android:color="@android:color/white"/>
+
+    <corners
+        android:radius="@dimen/activity_horizontal_margin3"/>
+
+</shape>
